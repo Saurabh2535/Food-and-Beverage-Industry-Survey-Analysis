@@ -101,7 +101,7 @@ Consider product offerings in the mid-range pricing (₹50-₹99) to cater to th
 
 **Presentation of Insights:** A detailed analysis highlighting key trends and actionable recommendations for businesses in the **Food and Beverage Industry.**
 
-[Food and Beverage](https://github.com/yourusername/repositoryname/blob/main/path/to/yourfile.extension](https://github.com/Saurabh2535/Food-and-Beverage-Industry-Survey-Analysis/blob/main/Food%20and%20Beverage.pbix)
+**Food and Beverage Live Dashboard** : https://app.powerbi.com/view?r=eyJrIjoiNDFlOGVlNmUtOWQ0Ni00ZmU5LTk1ODYtYTExMWQwZjA2ODYwIiwidCI6ImY5MmU3YTZmLTJmNmEtNGEzNi1iMzY2LTdkNGNlMjE4M2U5MiJ9
 
 
 
